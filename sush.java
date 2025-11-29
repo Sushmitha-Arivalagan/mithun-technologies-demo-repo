@@ -1,3 +1,3 @@
 right now
 this is for test purpose
-final pull merge
+this is purely for merge concept
